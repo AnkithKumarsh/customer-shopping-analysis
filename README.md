@@ -15,6 +15,10 @@ This project analyzes customer shopping behavior to identify purchasing patterns
 - Evaluated customer payment preferences
 - Discovered high-value customer segments
 
+## 📊 Dashboard Preview
+
+![Customer Shopping Behavior Dashboard](Dashboard.png)
+
 ## 📊 Dashboard Features
 - KPI metrics: Total Revenue, Average Purchase, Total Customers
 - Sales analysis by category, gender, and age group
